@@ -1,0 +1,11 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Mac and VSCode files
+.DS_Store
+.vscode/
+
+# Temporary files
+*.tmp
